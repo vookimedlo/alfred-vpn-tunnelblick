@@ -1189,7 +1189,7 @@ fi</string>
 			<key>note</key>
 			<string>VPN - internal error message</string>
 			<key>xpos</key>
-			<integer>1150</integer>
+			<integer>1160</integer>
 			<key>ypos</key>
 			<integer>560</integer>
 		</dict>
@@ -1233,7 +1233,7 @@ fi</string>
 			<key>note</key>
 			<string>OneUpdater</string>
 			<key>xpos</key>
-			<integer>1510</integer>
+			<integer>1520</integer>
 			<key>ypos</key>
 			<integer>320</integer>
 		</dict>
@@ -1255,7 +1255,7 @@ fi</string>
 			<key>note</key>
 			<string>VPN - Final Notification</string>
 			<key>xpos</key>
-			<integer>1310</integer>
+			<integer>1320</integer>
 			<key>ypos</key>
 			<integer>320</integer>
 		</dict>
@@ -1277,7 +1277,7 @@ fi</string>
 			<key>note</key>
 			<string>VPN - disconnection success message</string>
 			<key>xpos</key>
-			<integer>1150</integer>
+			<integer>1160</integer>
 			<key>ypos</key>
 			<integer>250</integer>
 		</dict>
@@ -1310,7 +1310,7 @@ fi</string>
 			<key>note</key>
 			<string>VPN - connection success message</string>
 			<key>xpos</key>
-			<integer>1150</integer>
+			<integer>1160</integer>
 			<key>ypos</key>
 			<integer>40</integer>
 		</dict>
@@ -1332,7 +1332,7 @@ fi</string>
 			<key>note</key>
 			<string>VPN - disconnection success message</string>
 			<key>xpos</key>
-			<integer>1150</integer>
+			<integer>1160</integer>
 			<key>ypos</key>
 			<integer>430</integer>
 		</dict>
@@ -1409,7 +1409,7 @@ fi</string>
 			<key>note</key>
 			<string>VPN - connection success message</string>
 			<key>xpos</key>
-			<integer>1150</integer>
+			<integer>1160</integer>
 			<key>ypos</key>
 			<integer>650</integer>
 		</dict>
@@ -1420,7 +1420,7 @@ fi</string>
 			<key>note</key>
 			<string>VPN - failed operation message</string>
 			<key>xpos</key>
-			<integer>1150</integer>
+			<integer>1160</integer>
 			<key>ypos</key>
 			<integer>150</integer>
 		</dict>
@@ -1475,7 +1475,7 @@ fi</string>
 		<string>vpn</string>
 	</dict>
 	<key>version</key>
-	<string>2018-10-XX</string>
+	<string>2018-10-15</string>
 	<key>webaddress</key>
 	<string>https://github.com/vookimedlo/alfred-vpn-tunnelblick</string>
 </dict>
