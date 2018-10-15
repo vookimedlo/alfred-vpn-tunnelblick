@@ -1,0 +1,1482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleid</key>
+	<string>cz.vookimedlo.alfred.tunnelblick.vpn</string>
+	<key>category</key>
+	<string>Internet</string>
+	<key>connections</key>
+	<dict>
+		<key>06CB4266-3A45-4FB9-AA17-AFD2548E0745</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>C6B37034-6065-4A65-B801-46A3AB0030C3</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>1195E886-218C-40C9-82EE-7ABA26BA5CB3</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>32CA759E-8156-432E-89B0-BC9A78FC1820</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>169FA21B-111A-43F9-B46A-E64148BAD4A1</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>958D0DDA-48F4-421C-AC24-26A284A70B2D</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>1F2AC735-C31D-4D10-A75E-1D0DD8DEFA8F</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>169FA21B-111A-43F9-B46A-E64148BAD4A1</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>1F4F5916-41CE-4372-AC17-3EBF46009C03</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>E5885615-BF87-4888-AE86-66BE3FCC5A10</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>25056B1C-B036-4407-BD30-C94D9E3D2D86</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>44F6FF3D-A4FD-44D6-AD9F-2D768E82C462</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>32CA759E-8156-432E-89B0-BC9A78FC1820</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>1F8B2883-F7EC-48E2-B460-5A53912F9382</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>34E42ACF-D4A6-48E9-9B1D-C71A324AB603</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>AF9A904F-65C8-4860-8C0B-31EBC01E5F3D</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>79EC7FE2-E929-4E09-B4DB-C97001A4F3F5</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>4986D740-114F-4CD2-86B6-3CAE663384CA</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>1F4F5916-41CE-4372-AC17-3EBF46009C03</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>44F6FF3D-A4FD-44D6-AD9F-2D768E82C462</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>32CA759E-8156-432E-89B0-BC9A78FC1820</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>486853E0-9988-4591-8248-0F7CB3695254</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>61D4D260-42B9-41AB-81F3-B7D6B6F303AD</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>4986D740-114F-4CD2-86B6-3CAE663384CA</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>C3E63DFD-CF40-456A-9869-835CEF8EA367</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>5C5F4424-9C9F-4DC7-8024-8C56CE3586D2</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>32CA759E-8156-432E-89B0-BC9A78FC1820</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>5F509384-000D-4AA1-82B5-21476AFAC172</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>1195E886-218C-40C9-82EE-7ABA26BA5CB3</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>61D4D260-42B9-41AB-81F3-B7D6B6F303AD</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>32CA759E-8156-432E-89B0-BC9A78FC1820</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>6AB00F72-2622-4315-B4C6-B9DA63FD7EF7</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>06CB4266-3A45-4FB9-AA17-AFD2548E0745</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>79EC7FE2-E929-4E09-B4DB-C97001A4F3F5</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>1F2AC735-C31D-4D10-A75E-1D0DD8DEFA8F</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>8532D7FA-20F9-4CFA-AE54-FE5AC2D0C4DB</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>C229F869-660C-49FE-831C-9947CEBD83F6</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>958D0DDA-48F4-421C-AC24-26A284A70B2D</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>8532D7FA-20F9-4CFA-AE54-FE5AC2D0C4DB</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>25056B1C-B036-4407-BD30-C94D9E3D2D86</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>5F509384-000D-4AA1-82B5-21476AFAC172</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>AF9A904F-65C8-4860-8C0B-31EBC01E5F3D</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>6AB00F72-2622-4315-B4C6-B9DA63FD7EF7</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>B98E400B-7D60-416C-841F-E72C4826A5B9</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>C07DBFD6-667E-46D7-A9E4-0077AE79B54F</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>C07DBFD6-667E-46D7-A9E4-0077AE79B54F</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>32CA759E-8156-432E-89B0-BC9A78FC1820</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>C229F869-660C-49FE-831C-9947CEBD83F6</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>32CA759E-8156-432E-89B0-BC9A78FC1820</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>C3E63DFD-CF40-456A-9869-835CEF8EA367</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>486853E0-9988-4591-8248-0F7CB3695254</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>5F509384-000D-4AA1-82B5-21476AFAC172</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>C6B37034-6065-4A65-B801-46A3AB0030C3</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>EAC65CCA-A562-48E5-BBD7-6373A30AC577</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>8532D7FA-20F9-4CFA-AE54-FE5AC2D0C4DB</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>5F509384-000D-4AA1-82B5-21476AFAC172</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>E5885615-BF87-4888-AE86-66BE3FCC5A10</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>5F509384-000D-4AA1-82B5-21476AFAC172</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>B98E400B-7D60-416C-841F-E72C4826A5B9</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>EAC65CCA-A562-48E5-BBD7-6373A30AC577</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>5C5F4424-9C9F-4DC7-8024-8C56CE3586D2</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+	</dict>
+	<key>createdby</key>
+	<string>Michal Duda</string>
+	<key>description</key>
+	<string>Alfred 3 workflow for controlling Tunnelblick VPN connections.</string>
+	<key>disabled</key>
+	<false/>
+	<key>name</key>
+	<string>VPN</string>
+	<key>objects</key>
+	<array>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>readonly CONFIGURATION="{query}"
+readonly OUTPUT=`osascript scpt/VPN_connect.scpt $CONFIGURATION`
+
+if [ $? -eq 0 ]; then
+    echo -n "$OUTPUT"
+else
+	echo -n "error"
+fi</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>C6B37034-6065-4A65-B801-46A3AB0030C3</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{query}</string>
+				<key>variables</key>
+				<dict>
+					<key>vpnConfig</key>
+					<string>{query}</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>06CB4266-3A45-4FB9-AA17-AFD2548E0745</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{var:vpnConfig} is connecting.</string>
+				<key>variables</key>
+				<dict/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>5C5F4424-9C9F-4DC7-8024-8C56CE3586D2</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<false/>
+				<key>matchmode</key>
+				<integer>2</integer>
+				<key>matchstring</key>
+				<string>^true</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>EAC65CCA-A562-48E5-BBD7-6373A30AC577</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<false/>
+				<key>matchmode</key>
+				<integer>2</integer>
+				<key>matchstring</key>
+				<string>^connect:</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>AF9A904F-65C8-4860-8C0B-31EBC01E5F3D</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>matchmode</key>
+				<integer>1</integer>
+				<key>matchstring</key>
+				<string>^.*:</string>
+				<key>replacestring</key>
+				<string></string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.replace</string>
+			<key>uid</key>
+			<string>6AB00F72-2622-4315-B4C6-B9DA63FD7EF7</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>Requested operation cannot be done for {var:vpnConfig}</string>
+				<key>variables</key>
+				<dict/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>C229F869-660C-49FE-831C-9947CEBD83F6</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<false/>
+				<key>matchmode</key>
+				<integer>2</integer>
+				<key>matchstring</key>
+				<string>^false</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>8532D7FA-20F9-4CFA-AE54-FE5AC2D0C4DB</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>readonly CONFIGURATION="{query}"
+readonly OUTPUT=`osascript scpt/VPN_disconnect.scpt $CONFIGURATION`
+
+if [ $? -eq 0 ]; then
+    echo -n "$OUTPUT"
+else
+	echo -n "error"
+fi</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>958D0DDA-48F4-421C-AC24-26A284A70B2D</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{query}</string>
+				<key>variables</key>
+				<dict>
+					<key>vpnConfig</key>
+					<string>{query}</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>169FA21B-111A-43F9-B46A-E64148BAD4A1</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<false/>
+				<key>matchmode</key>
+				<integer>2</integer>
+				<key>matchstring</key>
+				<string>^disconnect:</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>79EC7FE2-E929-4E09-B4DB-C97001A4F3F5</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{var:vpnConfig} is disconnecting.</string>
+				<key>variables</key>
+				<dict/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>44F6FF3D-A4FD-44D6-AD9F-2D768E82C462</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<false/>
+				<key>matchmode</key>
+				<integer>2</integer>
+				<key>matchstring</key>
+				<string>^true</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>25056B1C-B036-4407-BD30-C94D9E3D2D86</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>matchmode</key>
+				<integer>1</integer>
+				<key>matchstring</key>
+				<string>^.*:</string>
+				<key>replacestring</key>
+				<string></string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.replace</string>
+			<key>uid</key>
+			<string>1F2AC735-C31D-4D10-A75E-1D0DD8DEFA8F</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>{query}</string>
+				<key>title</key>
+				<string>VPN</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>32CA759E-8156-432E-89B0-BC9A78FC1820</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>script</key>
+				<string>readonly latestTag=`curl -s https://api.github.com/repos/vookimedlo/alfred-vpn-tunnelblick/releases/latest | grep browser_download_url | grep VPN.alfredworkflow | cut -d '/' -f 8`
+
+# THESE VARIABLES MUST BE SET. SEE THE ONEUPDATER README FOR AN EXPLANATION OF EACH.
+readonly remote_info_plist="https://raw.githubusercontent.com/vookimedlo/alfred-vpn-tunnelblick/${latestTag}/src/info.plist"
+readonly workflow_url=`curl -s https://api.github.com/repos/vookimedlo/alfred-vpn-tunnelblick/releases/latest | grep browser_download_url | grep VPN.alfredworkflow | cut -d '"' -f 4`
+readonly download_type='direct'
+readonly frequency_check='4'
+
+# FROM HERE ON, CODE SHOULD BE LEFT UNTOUCHED!
+function abort {
+  echo "${1}" &gt;&amp;2
+  exit 1
+}
+
+function url_exists {
+  curl --silent --location --output /dev/null --fail --range 0-0 "${1}"
+}
+
+function notification {
+  readonly local notificator="$(find . -type d -name 'Notificator.app')"
+  if [[ -n "${notificator}" ]]; then
+    "${notificator}/Contents/Resources/Scripts/notificator" --message "${1}" --title "${alfred_workflow_name}" --subtitle 'A new version is available'
+    return
+  fi
+
+  readonly local terminal_notifier="$(find . -type f -name 'terminal-notifier')"
+  if [[ -n "${terminal_notifier}" ]]; then
+    "${terminal_notifier}" -title "${alfred_workflow_name}" -subtitle 'A new version is available' -message "${1}"
+    return
+  fi
+
+  osascript -e "display notification \"${1}\" with title \"${alfred_workflow_name}\" subtitle \"A new version is available\""
+}
+
+# Local sanity checks
+readonly local_info_plist='info.plist'
+readonly local_version="$(/usr/libexec/PlistBuddy -c 'print version' "${local_info_plist}")"
+
+[[ -n "${local_version}" ]] || abort 'You need to set a workflow version in the configuration sheet.'
+[[ "${download_type}" =~ ^(direct|page|github_release)$ ]] || abort "'download_type' (${download_type}) needs to be one of 'direct', 'page', or 'github_release'."
+[[ "${frequency_check}" =~ ^[0-9]+$ ]] || abort "'frequency_check' (${frequency_check}) needs to be a number."
+
+# Check for updates
+if [[ $(find "${local_info_plist}" -mtime +"${frequency_check}"d) ]]; then
+  if ! url_exists "${remote_info_plist}"; then abort "'remote_info_plist' (${remote_info_plist}) appears to not be reachable."; fi # Remote sanity check
+
+  readonly tmp_file="$(mktemp)"
+  curl --silent --location --output "${tmp_file}" "${remote_info_plist}"
+  readonly remote_version="$(/usr/libexec/PlistBuddy -c 'print version' "${tmp_file}")"
+
+  if [[ "${local_version}" == "${remote_version}" ]]; then
+    touch "${local_info_plist}" # Reset timer by touching local file
+    exit 0
+  fi
+
+  if [[ "${download_type}" == 'page' ]]; then
+    notification 'Opening download page…'
+    open "${workflow_url}"
+    exit 0
+  fi
+
+  download_url="$([[ "${download_type}" == 'github_release' ]] &amp;&amp; curl --silent "https://api.github.com/repos/${workflow_url}/releases/latest" | grep 'browser_download_url' | head -1 | sed -E 's/.*browser_download_url": "(.*)"/\1/' || echo "${workflow_url}")"
+
+  if url_exists "${download_url}"; then
+    notification 'Downloading and installing…'
+    curl --silent --location --output "${HOME}/Downloads/${alfred_workflow_name}.alfredworkflow" "${download_url}"
+    open "${HOME}/Downloads/${alfred_workflow_name}.alfredworkflow"
+  else
+    abort "'workflow_url' (${download_url}) appears to not be reachable."
+  fi
+fi</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>1F8B2883-F7EC-48E2-B460-5A53912F9382</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>escaping</key>
+				<integer>127</integer>
+				<key>keyword</key>
+				<string>{var:keyword}</string>
+				<key>queuedelaycustom</key>
+				<integer>1</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<false/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Receiving VPN status…</string>
+				<key>script</key>
+				<string># Author: Michal Duda - 2018
+# License: GPLv3
+# WWW: https://github.com/vookimedlo/alfred-vpn-tunnelblick
+#
+
+import json
+import os
+import sys
+from subprocess import Popen, PIPE
+
+def split(commaSeparatedString):
+    commaSeparatedString = commaSeparatedString.replace('\n', '')
+    commaSeparatedString = commaSeparatedString.replace(', ', ',')
+    return commaSeparatedString.split(',')
+
+def addConnectAllMenuItem(alfreditems):
+    alfreditems['items'].append({
+        "title": 'Not all VPNs are connected.',
+        "subtitle": 'Connect to all VPNs',
+        "autocomplete": 'Connect to all VPNs.',
+        "arg": 'connectall',
+        })
+
+def addDisconnectAllMenuItem(alfreditems):
+    alfreditems['items'].append({
+        "title": 'Not all VPNs are disconnected.',
+        "subtitle": 'Disconnect from all VPNs',
+        "autocomplete": 'Disconnect from all VPNs.',
+        "arg": 'disconnectall',
+        })
+
+alfreditems = {"items": []}
+
+process = Popen(["osascript", "scpt/VPN_getConfigurations.scpt"], stdout=PIPE)
+(outputName, errName) = process.communicate()
+exitCodeName = process.wait()
+
+process = Popen(["osascript", "scpt/VPN_getStateConfigurations.scpt"], stdout=PIPE)
+(outputState, errState) = process.communicate()
+exitCodeState = process.wait()
+
+if exitCodeName == 0 and exitCodeState == 0:
+    names = split(outputName)
+    states = split(outputState)
+
+    if len(names) == len(states):
+        showDisconnectAll = len(names)
+        showConnectAll = len(names)
+
+        for i in range(0,len(names)):
+            if states[i] == 'EXITING':
+                title = names[i] + " is disconnected."
+                subtitle = "Connect to " + names[i]
+                arg = "connect:" + names[i]
+                showDisconnectAll -= 1
+            elif states[i] == 'CONNECTED':
+                title = names[i] + " is connected."
+                subtitle = "Disconnect from " + names[i]
+                arg = "disconnect:" + names[i]
+                showConnectAll -= 1
+            else:
+                title = names[i] + " is connecting."
+                subtitle = "Disconnect from " + names[i]
+                arg = "disconnect:" + names[i]
+                showConnectAll -= 1
+
+            uid = names[i]
+            autocomplete = title
+
+            # Alfred menu items
+            #
+            alfreditems['items'].append({
+                "title": title,
+                "subtitle": subtitle,
+                "autocomplete": title,
+                "arg": arg,
+                })
+
+        if showConnectAll &gt; 1:
+            addConnectAllMenuItem(alfreditems)
+
+        if showDisconnectAll &gt; 1:
+            addDisconnectAllMenuItem(alfreditems)
+
+    else:
+        addConnectAllMenuItem(alfreditems)
+        addDisconnectAllMenuItem(alfreditems)
+
+dump = json.dumps({'items': alfreditems['items']}, indent=4)
+sys.stdout.write(dump)
+</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string>Controls VPN</string>
+				<key>type</key>
+				<integer>3</integer>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>34E42ACF-D4A6-48E9-9B1D-C71A324AB603</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>readonly OUTPUT=`osascript scpt/VPN_disconnectAll.scpt`
+
+if [ $? -eq 0 ]; then
+    echo -n "$OUTPUT"
+else
+	echo -n "error"
+fi</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>C3E63DFD-CF40-456A-9869-835CEF8EA367</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<false/>
+				<key>matchmode</key>
+				<integer>2</integer>
+				<key>matchstring</key>
+				<string>^[0-9]</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>486853E0-9988-4591-8248-0F7CB3695254</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>All VPNs are disconnecting.</string>
+				<key>variables</key>
+				<dict/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>61D4D260-42B9-41AB-81F3-B7D6B6F303AD</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<false/>
+				<key>matchmode</key>
+				<integer>2</integer>
+				<key>matchstring</key>
+				<string>^disconnectall</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>4986D740-114F-4CD2-86B6-3CAE663384CA</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<false/>
+				<key>matchmode</key>
+				<integer>2</integer>
+				<key>matchstring</key>
+				<string>^error</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>5F509384-000D-4AA1-82B5-21476AFAC172</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>Internal error has occurred!</string>
+				<key>variables</key>
+				<dict/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>1195E886-218C-40C9-82EE-7ABA26BA5CB3</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>readonly OUTPUT=`osascript scpt/VPN_connectAll.scpt`
+
+if [ $? -eq 0 ]; then
+    echo -n "$OUTPUT"
+else
+	echo -n "error"
+fi</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>E5885615-BF87-4888-AE86-66BE3FCC5A10</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<false/>
+				<key>matchmode</key>
+				<integer>2</integer>
+				<key>matchstring</key>
+				<string>^connectall</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>1F4F5916-41CE-4372-AC17-3EBF46009C03</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<false/>
+				<key>matchmode</key>
+				<integer>2</integer>
+				<key>matchstring</key>
+				<string>^[0-9]</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>B98E400B-7D60-416C-841F-E72C4826A5B9</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{query} VPNs are connecting.</string>
+				<key>variables</key>
+				<dict/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>C07DBFD6-667E-46D7-A9E4-0077AE79B54F</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>readme</key>
+	<string>See https://github.com/vookimedlo/alfred-vpn-tunnelblick</string>
+	<key>uidata</key>
+	<dict>
+		<key>06CB4266-3A45-4FB9-AA17-AFD2548E0745</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>9</integer>
+			<key>note</key>
+			<string>VPN - remember a vpn configuration</string>
+			<key>xpos</key>
+			<integer>590</integer>
+			<key>ypos</key>
+			<integer>40</integer>
+		</dict>
+		<key>1195E886-218C-40C9-82EE-7ABA26BA5CB3</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>1</integer>
+			<key>note</key>
+			<string>VPN - internal error message</string>
+			<key>xpos</key>
+			<integer>1150</integer>
+			<key>ypos</key>
+			<integer>560</integer>
+		</dict>
+		<key>169FA21B-111A-43F9-B46A-E64148BAD4A1</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>10</integer>
+			<key>note</key>
+			<string>VPN - remember a vpn configuration</string>
+			<key>xpos</key>
+			<integer>590</integer>
+			<key>ypos</key>
+			<integer>250</integer>
+		</dict>
+		<key>1F2AC735-C31D-4D10-A75E-1D0DD8DEFA8F</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>10</integer>
+			<key>note</key>
+			<string>VPN - remove a request command</string>
+			<key>xpos</key>
+			<integer>460</integer>
+			<key>ypos</key>
+			<integer>250</integer>
+		</dict>
+		<key>1F4F5916-41CE-4372-AC17-3EBF46009C03</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>7</integer>
+			<key>note</key>
+			<string>VPN - check for a connection to all request</string>
+			<key>xpos</key>
+			<integer>340</integer>
+			<key>ypos</key>
+			<integer>650</integer>
+		</dict>
+		<key>1F8B2883-F7EC-48E2-B460-5A53912F9382</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>12</integer>
+			<key>note</key>
+			<string>OneUpdater</string>
+			<key>xpos</key>
+			<integer>1510</integer>
+			<key>ypos</key>
+			<integer>320</integer>
+		</dict>
+		<key>25056B1C-B036-4407-BD30-C94D9E3D2D86</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>10</integer>
+			<key>note</key>
+			<string>VPN - check for a disconnection success</string>
+			<key>xpos</key>
+			<integer>1060</integer>
+			<key>ypos</key>
+			<integer>250</integer>
+		</dict>
+		<key>32CA759E-8156-432E-89B0-BC9A78FC1820</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>5</integer>
+			<key>note</key>
+			<string>VPN - Final Notification</string>
+			<key>xpos</key>
+			<integer>1310</integer>
+			<key>ypos</key>
+			<integer>320</integer>
+		</dict>
+		<key>34E42ACF-D4A6-48E9-9B1D-C71A324AB603</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>5</integer>
+			<key>note</key>
+			<string>VPN - check for the VPN state</string>
+			<key>xpos</key>
+			<integer>20</integer>
+			<key>ypos</key>
+			<integer>320</integer>
+		</dict>
+		<key>44F6FF3D-A4FD-44D6-AD9F-2D768E82C462</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>10</integer>
+			<key>note</key>
+			<string>VPN - disconnection success message</string>
+			<key>xpos</key>
+			<integer>1150</integer>
+			<key>ypos</key>
+			<integer>250</integer>
+		</dict>
+		<key>486853E0-9988-4591-8248-0F7CB3695254</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>8</integer>
+			<key>note</key>
+			<string>VPN - check for a disconnection success</string>
+			<key>xpos</key>
+			<integer>1060</integer>
+			<key>ypos</key>
+			<integer>430</integer>
+		</dict>
+		<key>4986D740-114F-4CD2-86B6-3CAE663384CA</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>8</integer>
+			<key>note</key>
+			<string>VPN - check for a disconnection from all request</string>
+			<key>xpos</key>
+			<integer>340</integer>
+			<key>ypos</key>
+			<integer>430</integer>
+		</dict>
+		<key>5C5F4424-9C9F-4DC7-8024-8C56CE3586D2</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>9</integer>
+			<key>note</key>
+			<string>VPN - connection success message</string>
+			<key>xpos</key>
+			<integer>1150</integer>
+			<key>ypos</key>
+			<integer>40</integer>
+		</dict>
+		<key>5F509384-000D-4AA1-82B5-21476AFAC172</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>1</integer>
+			<key>note</key>
+			<string>VPN - check for an internal error</string>
+			<key>xpos</key>
+			<integer>1060</integer>
+			<key>ypos</key>
+			<integer>560</integer>
+		</dict>
+		<key>61D4D260-42B9-41AB-81F3-B7D6B6F303AD</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>8</integer>
+			<key>note</key>
+			<string>VPN - disconnection success message</string>
+			<key>xpos</key>
+			<integer>1150</integer>
+			<key>ypos</key>
+			<integer>430</integer>
+		</dict>
+		<key>6AB00F72-2622-4315-B4C6-B9DA63FD7EF7</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>9</integer>
+			<key>note</key>
+			<string>VPN - remove a request command</string>
+			<key>xpos</key>
+			<integer>460</integer>
+			<key>ypos</key>
+			<integer>40</integer>
+		</dict>
+		<key>79EC7FE2-E929-4E09-B4DB-C97001A4F3F5</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>10</integer>
+			<key>note</key>
+			<string>VPN - check for a disconnection request</string>
+			<key>xpos</key>
+			<integer>340</integer>
+			<key>ypos</key>
+			<integer>250</integer>
+		</dict>
+		<key>8532D7FA-20F9-4CFA-AE54-FE5AC2D0C4DB</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>1</integer>
+			<key>note</key>
+			<string>VPN - check for a failed operation</string>
+			<key>xpos</key>
+			<integer>1060</integer>
+			<key>ypos</key>
+			<integer>150</integer>
+		</dict>
+		<key>958D0DDA-48F4-421C-AC24-26A284A70B2D</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>10</integer>
+			<key>note</key>
+			<string>VPN - disconnect</string>
+			<key>xpos</key>
+			<integer>760</integer>
+			<key>ypos</key>
+			<integer>220</integer>
+		</dict>
+		<key>AF9A904F-65C8-4860-8C0B-31EBC01E5F3D</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>9</integer>
+			<key>note</key>
+			<string>VPN - check for a connection request</string>
+			<key>xpos</key>
+			<integer>340</integer>
+			<key>ypos</key>
+			<integer>40</integer>
+		</dict>
+		<key>B98E400B-7D60-416C-841F-E72C4826A5B9</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>7</integer>
+			<key>note</key>
+			<string>VPN - check for a connection success</string>
+			<key>xpos</key>
+			<integer>1060</integer>
+			<key>ypos</key>
+			<integer>650</integer>
+		</dict>
+		<key>C07DBFD6-667E-46D7-A9E4-0077AE79B54F</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>7</integer>
+			<key>note</key>
+			<string>VPN - connection success message</string>
+			<key>xpos</key>
+			<integer>1150</integer>
+			<key>ypos</key>
+			<integer>650</integer>
+		</dict>
+		<key>C229F869-660C-49FE-831C-9947CEBD83F6</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>1</integer>
+			<key>note</key>
+			<string>VPN - failed operation message</string>
+			<key>xpos</key>
+			<integer>1150</integer>
+			<key>ypos</key>
+			<integer>150</integer>
+		</dict>
+		<key>C3E63DFD-CF40-456A-9869-835CEF8EA367</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>8</integer>
+			<key>note</key>
+			<string>VPN - disconnect all</string>
+			<key>xpos</key>
+			<integer>760</integer>
+			<key>ypos</key>
+			<integer>400</integer>
+		</dict>
+		<key>C6B37034-6065-4A65-B801-46A3AB0030C3</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>9</integer>
+			<key>note</key>
+			<string>VPN - connect</string>
+			<key>xpos</key>
+			<integer>760</integer>
+			<key>ypos</key>
+			<integer>10</integer>
+		</dict>
+		<key>E5885615-BF87-4888-AE86-66BE3FCC5A10</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>7</integer>
+			<key>note</key>
+			<string>VPN - connect all</string>
+			<key>xpos</key>
+			<integer>760</integer>
+			<key>ypos</key>
+			<integer>620</integer>
+		</dict>
+		<key>EAC65CCA-A562-48E5-BBD7-6373A30AC577</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>9</integer>
+			<key>note</key>
+			<string>VPN - check for a connection success</string>
+			<key>xpos</key>
+			<integer>1060</integer>
+			<key>ypos</key>
+			<integer>40</integer>
+		</dict>
+	</dict>
+	<key>variables</key>
+	<dict>
+		<key>keyword</key>
+		<string>vpn</string>
+	</dict>
+	<key>version</key>
+	<string>2018-10-XX</string>
+	<key>webaddress</key>
+	<string>https://github.com/vookimedlo/alfred-vpn-tunnelblick</string>
+</dict>
+</plist>
